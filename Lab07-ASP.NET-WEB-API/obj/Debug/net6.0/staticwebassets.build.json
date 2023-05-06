@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nmnUCsfYeWfITLZaTOuDkuFaRrL4bRwrzFLKNAK6htg=",
+  "Source": "Lab07-ASP.NET-WEB-API",
+  "BasePath": "_content/Lab07-ASP.NET-WEB-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
